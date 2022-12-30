@@ -548,7 +548,7 @@
         "light70": "#FFEBDD",
         "light80": "#FFE8D8",
         "light90": "#FFE5D3",
-        "primary": "red",
+        "primary": "blue",
         "dark": "#C85000",
         "light": "#ffe2ce",
         "action": "#A84308",
