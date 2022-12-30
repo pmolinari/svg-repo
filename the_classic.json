@@ -1,4 +1,4 @@
-export const classic = {
+{
     "breakpoints": {
         "xs": "359px",
         "sm": "767px",
