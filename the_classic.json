@@ -84,8 +84,8 @@
         "headerAnimate": "350ms ease-out"
     },
     "borders": {
-        "radius8": "16px",
-        "radius4": "8px"
+        "radius8": "0px",
+        "radius4": "0px"
     },
     "zindex": {
         "zindex1": "1",
@@ -548,7 +548,7 @@
         "light70": "#FFEBDD",
         "light80": "#FFE8D8",
         "light90": "#FFE5D3",
-        "primary": "green",
+        "primary": "red",
         "dark": "#C85000",
         "light": "#ffe2ce",
         "action": "#A84308",
